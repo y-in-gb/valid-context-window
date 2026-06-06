@@ -1,2 +1,6 @@
-# valid-context-window
-This study aims to provide reproducible experiment methodology and results to introduce the idea of “Valid Context Window” through a real-world task of translating the fiction “Over Flow And Throw” (OFAT) from Chinese to English.
+# Valid Context Window: Real-world Translation Task Evaluation Study based of OFAT Raw Text Data and Open-source LLMs
+Get the open-source data used in this project via https://github.com/y-in-gb/open-fiction-access-token/tree/main
+
+<div align="left">
+    <img src="VCW-page1.png">
+</div>
