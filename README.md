@@ -1,8 +1,12 @@
 # Valid Context Window: Real-world Translation Task Evaluation Study based of OFAT Raw Text Data and Open Source LLMs
 **崖雁yayan [Bilibili: 作者_崖雁 , GitHub: y-in-gb]**
+
 *Author of “Over Flow And Throw”*
+
 *Starter of OFAT v1.0 License*
+
 *Open Source “Over Flow And Throw” Chinese & English raw text data in GitHub repository : y-in-gb/open-fiction-access-token*
+
 **June 23, 2026**
 
 ## Background
